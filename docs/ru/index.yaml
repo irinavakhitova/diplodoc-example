@@ -1,7 +1,5 @@
 title: Шаблон документации
 links:
-  - ttile: Swagger Petstore API
-    href: petstore-api-draft/
   - title: О проекте
     href: about.md
   - title: Страница Diplodoc на главной странице
