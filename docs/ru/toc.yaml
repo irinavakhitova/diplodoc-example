@@ -11,3 +11,4 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Swagger Petstore API
