@@ -3,7 +3,7 @@ href: index.yaml
 items:
   - name: Swagger Petstore API
       include:
-        path: Swagger Petstore API
+        path: petstoreapi
         includers:
           - name: Swagger Petstore API
             input: petstore-api-draft.yaml
