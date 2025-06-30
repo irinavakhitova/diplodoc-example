@@ -1,6 +1,6 @@
 title: Шаблон документации
 links:
-  - title: petstore-api-draft
+  - title: Swagger Petstore API 
     href: petstore-api-draft/
   - title: О проекте
     href: about.md
