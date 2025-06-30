@@ -2,7 +2,10 @@ title: Шаблон проекта документации
 href: index.yaml
 items:
   - name: Swagger Petstore API
-    href: api.yaml
+      include:
+      path: petstore-api-draft.yaml
+      mode: generator
+      includer: swagger
   - name: О проекте
     href: about.md
   - name: Дополнительная страница
