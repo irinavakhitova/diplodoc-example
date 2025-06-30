@@ -1,0 +1,6 @@
+title: Swagger Petstore API
+
+include:
+  path: petstore-api-draft.yaml
+  mode: generator
+  includer: swagger
