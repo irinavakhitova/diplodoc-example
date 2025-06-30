@@ -4,7 +4,8 @@ items:
   - name: Swagger Petstore API
     include:
       path: petstore-api-draft.yaml
-      mode: link
+      mode: generator
+      includer: swagger
   - name: О проекте
     href: about.md
   - name: Дополнительная страница
