@@ -36,7 +36,6 @@
   },
   "dependencies": {
     "@diplodoc/cli": "^5.0.8",
-    "@diplodoc/includer-swagger": "^5.0.8",
     "chokidar": "^3.5.3",
     "express": "^4.18.2",
     "glob": "^10.3.4",
